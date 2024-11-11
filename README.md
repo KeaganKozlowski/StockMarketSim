@@ -1,6 +1,6 @@
 # StockMarketSim
 Project which allows the user to simulate the stock market.
-
+- Working similarly to how Etoro works
 ## This can be achieved by the following features:
 1. View the current market
 2. Search for companies
