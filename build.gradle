@@ -1,0 +1,16 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.openjfx:javafx-controls:23.02.05"
+    implementation "org.openjfx:javafx-fxml:23.02.05"
+}
+
+application {
+    mainClass = 'your.package.MainApp'
+}
